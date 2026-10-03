@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+CHANGELOG.txt
+1.2.4 Sep 30 2026: WiFi transport, Chinese UI, crop, restore

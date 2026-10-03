@@ -1,0 +1,3 @@
+/* rev-a7c31e-20261003 */
+USAGE.txt
+run aircard.exe, Trust iPhone, Scan, Choose Image, Apply
